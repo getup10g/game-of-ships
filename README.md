@@ -1,1 +1,1 @@
-# main file is in branch app
+# main file is in folder app
