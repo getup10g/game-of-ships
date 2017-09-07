@@ -1,1 +1,1 @@
-# game-of-ships
+# main file is in branch app
